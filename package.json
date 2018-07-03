@@ -19,7 +19,8 @@
   "homepage": "https://gitlab.com/YourSouLisMine/crud#README",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongodb": "^3.1.0"
   },
   "devDependencies": {
     "nodemon": "^1.17.5"
