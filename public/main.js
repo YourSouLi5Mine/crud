@@ -28,6 +28,6 @@ del.addEventListener('click', () => {
         if (res.ok) return res.json();
     }).then(data => {
         console.log(data);
-        // window.location.reload();
+        window.location.reload();
     })
 })
